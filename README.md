@@ -16,3 +16,6 @@
 ![Seoyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoon-heo&show_icons=true&theme=gruvbox)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoon-heo&layout=compact&theme=gruvbox)
+
+### 📚 Study Logs
+- [나의 TIL 저장소 구경가기](https://github.com/seoyoon-heo/TIL)
