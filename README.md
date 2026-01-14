@@ -11,11 +11,12 @@
 ### 📫 How to reach me
 - Email: seoyoonh24@gmail.com
 
+### 📚 Study Logs
+- [나의 TIL 저장소 구경가기](https://github.com/seoyoon-heo/TIL)
+
+
 ### 📊 GitHub Stats
 
 ![Seoyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoon-heo&show_icons=true&theme=gruvbox)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoon-heo&layout=compact&theme=gruvbox)
-
-### 📚 Study Logs
-- [나의 TIL 저장소 구경가기](https://github.com/seoyoon-heo/TIL)
