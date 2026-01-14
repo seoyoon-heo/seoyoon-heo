@@ -9,4 +9,4 @@
 - Data Structures & Algorithms
 
 ### 📫 How to reach me
-- Email: seoyoonh24@example.com (seoyoonh24@gmail.com)
+- Email: seoyoonh24@gmail.com
